@@ -153,7 +153,7 @@ water-potability-classification/
 ├── requirements.txt
 └── .gitignore
 ```
-
+[분석 노트북 바로가기](./notebooks/water_potability_classification.ipynb)
 ## 10. 주의사항
 
 학습 및 포트폴리오 목적의 프로젝트
